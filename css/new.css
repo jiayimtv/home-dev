@@ -92,10 +92,10 @@ a:focus {
  margin: .5rem auto;
 	margin-top: 1rem;
 	width: 95%;
-	height: 26rem;
+	height: 100%;
 	background: #25B097;
  border-radius: 1rem;
- padding-top:15px;
+ padding:15px 0;
 /* border-bottom: .1rem solid gray; */.
 
 }
@@ -156,7 +156,7 @@ a:focus {
 	height: 4rem;
 }
 .a-main h3 {
-	font-size: 21px;
+	font-size: 18px;
 }
 .g-main {
  margin: .5rem auto;
@@ -168,12 +168,13 @@ a:focus {
  margin: .5rem auto;
  margin-top: .5rem;
 	width: 96%;
-	height: 26rem;
+	height: 100%;
+    padding:15px 0;
 }
 .g-main1 img{max-width:95%;}
 .g-main span {
 	margin: 1rem;
-	width: 6rem;
+	width: 16%;
 	height: 2.5rem;
  border-radius: 1rem;
 	background: #D13D45;
